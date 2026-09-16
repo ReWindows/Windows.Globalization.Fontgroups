@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Windows.Globalization.Fontgroups.dll",
+  "latest": "2401575024-F229BCF467217B70B1914FE0719AB172-1",
+  "builds": [
+    {
+      "key": "2401575024-F229BCF467217B70B1914FE0719AB172-1",
+      "timestamp": "2401575024",
+      "pdb_guid": "F229BCF467217B70B1914FE0719AB172",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/2401575024-F229BCF467217B70B1914FE0719AB172-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
